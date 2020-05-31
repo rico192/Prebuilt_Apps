@@ -18,4 +18,5 @@ PRODUCT_PACKAGES += \
     vanced.microg \
     yt.vanced \
     music.vanced \
-	MiRemote
+    MiRemote \
+    RetroMusic

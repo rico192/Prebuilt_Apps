@@ -17,6 +17,5 @@ PRODUCT_PACKAGES += \
     smartpack \
     vanced.microg \
     yt.vanced \
-    music.vanced \
     MiRemote \
-    RetroMusic
+    AIMP
